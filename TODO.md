@@ -1,5 +1,5 @@
 - Fix scaling for the cards
 - Do a tiny bit of pushing things when nav gets expanded because bottom side is longer than top side
 - Actually finish the rest of the site
-- Convert to astro if whole division approves
 - Make proper mobile layout
+- Make body transition sync with nav bar transition

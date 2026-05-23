@@ -41,6 +41,9 @@ body {
 		var(--black) 100%
 	);
 	background-attachment: fixed;
+
+	/* Slide down when nav opened */
+	transition: margin-top 0.15s ease;
 }
 
 main {
